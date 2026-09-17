@@ -1,0 +1,15 @@
+module github.com/olzhas/lab4-variant1
+
+go 1.27.1
+
+require (
+	github.com/fatih/color v1.19.0
+	github.com/google/uuid v1.6.0
+)
+
+require (
+	github.com/dustin/go-humanize v1.0.1 // indirect
+	github.com/mattn/go-colorable v0.1.14 // indirect
+	github.com/mattn/go-isatty v0.0.20 // indirect
+	golang.org/x/sys v0.42.0 // indirect
+)
